@@ -1,0 +1,20 @@
+O:\Aran\Shapes Screen Saver\Screen Saver UI\bin\Debug\Screen Saver UI.exe.config
+O:\Aran\Shapes Screen Saver\Screen Saver UI\bin\Debug\Screen Saver UI.exe
+O:\Aran\Shapes Screen Saver\Screen Saver UI\bin\Debug\Screen Saver UI.pdb
+O:\Aran\Shapes Screen Saver\Screen Saver UI\bin\Debug\Business Entities.dll
+O:\Aran\Shapes Screen Saver\Screen Saver UI\bin\Debug\Business Entities.pdb
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\Screen Saver UI.csprojResolveAssemblyReference.cache
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\JohnBryce.AboutForm.resources
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\JohnBryce.BaseForm.resources
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\JohnBryce.HelpForm.resources
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\JohnBryce.MainForm.resources
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\JohnBryce.Properties.Resources.resources
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\Screen Saver UI.csproj.GenerateResource.Cache
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\Screen Saver UI.exe
+O:\Aran\Shapes Screen Saver\Screen Saver UI\obj\Debug\Screen Saver UI.pdb
+E:\Shapes Screen Saver\Screen Saver UI\bin\Debug\Screen Saver UI.exe.config
+E:\Shapes Screen Saver\Screen Saver UI\obj\Debug\Screen Saver UI.exe
+E:\Shapes Screen Saver\Screen Saver UI\obj\Debug\Screen Saver UI.pdb
+C:\Users\Ziv\Documents\GitHub\Shapes Screen Saver- .NET oop C#\Screen Saver UI\bin\Debug\Screen Saver UI.exe.config
+C:\Users\Ziv\Documents\GitHub\Shapes Screen Saver- .NET oop C#\Screen Saver UI\obj\Debug\Screen Saver UI.exe
+C:\Users\Ziv\Documents\GitHub\Shapes Screen Saver- .NET oop C#\Screen Saver UI\obj\Debug\Screen Saver UI.pdb

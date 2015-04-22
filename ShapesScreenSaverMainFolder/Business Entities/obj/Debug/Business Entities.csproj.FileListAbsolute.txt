@@ -1,0 +1,5 @@
+O:\Aran\Shapes Screen Saver\Business Entities\bin\Debug\Business Entities.dll
+O:\Aran\Shapes Screen Saver\Business Entities\bin\Debug\Business Entities.pdb
+O:\Aran\Shapes Screen Saver\Business Entities\obj\Debug\Business Entities.csprojResolveAssemblyReference.cache
+O:\Aran\Shapes Screen Saver\Business Entities\obj\Debug\Business Entities.dll
+O:\Aran\Shapes Screen Saver\Business Entities\obj\Debug\Business Entities.pdb
